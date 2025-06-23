@@ -27,8 +27,7 @@ Target Variable:
 Objective
 To build a classification pipeline that predicts income category (<=50K or >50K) based on available features, and evaluate the model performance using precision, recall, F1-score, and accuracy.
 
-
-🔍 Exploratory Data Analysis (EDA)
+ Exploratory Data Analysis (EDA)
 EDA was performed to understand:
 
 Class imbalance in the income column
